@@ -13,6 +13,7 @@ Maintained by [NEXUS Algo Academy](https://nexus-bot.pro/courses/) — we teach 
 - [Deployment](#deployment)
 - [Memory Systems](#memory-systems)
 - [Tools & Functions](#tools-functions)
+- [Free Tools & Calculators](#free-tools--calculators)
 - [Courses & Learning](#courses-learning)
 - [Production Case Studies](#production-case-studies)
 - [Best Practices](#best-practices)
@@ -71,6 +72,11 @@ The cross-vendor standard for connecting agents to tools (Anthropic 2024 → ado
 - [Anthropic Tool Use](https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview) — Native Claude tool calling.
 - [Composio](https://composio.dev/) — Pre-built tools for 250+ apps.
 - [Toolhouse](https://toolhouse.ai/) — Tool registry for LLMs.
+
+## Free Tools & Calculators
+
+- [Python Crypto Trading Bot Starter (free, 150 lines)](https://nexus-bot.pro/free/crypto-bot-starter/en/) — Binance testnet EMA cross strategy with risk management. Honest "what's missing" comparison vs production systems.
+- [Grid Bot ROI Calculator (free, interactive)](https://nexus-bot.pro/free/grid-calculator/en/) — First-principles math for grid trading bots, fee impact analysis. API at `/api/grid-calc`.
 
 ## Courses & Learning
 

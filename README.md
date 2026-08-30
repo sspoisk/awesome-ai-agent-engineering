@@ -55,6 +55,7 @@ The cross-vendor standard for connecting agents to tools (Anthropic 2024 → ado
 
 ## Deployment
 
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) — Local-first, self-hosted agent runtime with MCP tools, sandboxed sessions, memory, approvals, audit, and replay.
 - [Modal](https://modal.com/) — Serverless Python, agent-friendly.
 - [Cloudflare Workers](https://workers.cloudflare.com/) — Edge-deployed agents.
 - [Hetzner Cloud](https://www.hetzner.com/cloud) — Cheap VPS for production agents ($5/mo).

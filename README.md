@@ -28,6 +28,7 @@ Maintained by [NEXUS Algo Academy](https://nexus-bot.pro/courses/) — we teach 
 - [Antigravity 2.0](https://google.dev/antigravity) — Google's agent platform launched at I/O 2026.
 - [CrewAI](https://www.crewai.com/) — Multi-agent role-based framework.
 - [AutoGen](https://github.com/microsoft/autogen) — Microsoft's conversational multi-agent framework.
+- [AIWG](https://github.com/jmagly/aiwg) — Project-owned agents, skills, context, and governed workflows across coding platforms.
 
 ## MCP (Model Context Protocol)
 
